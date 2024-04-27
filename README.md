@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @realcharos
-- 👀 I’m interested in ... robotica, AI, Frontend
-- 🌱 I’m currently learning ... Frontend and python
+- 👀 I’m interested in ... robotica, AI
+- 🌱 I’m currently learning ... Data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you can also write me on instagram or telegram with this username
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...she/her/hers
 - ⚡ Fun fact: ...I am classic-book lover 
 
